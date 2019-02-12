@@ -164,7 +164,7 @@
             <dependency>
                 <groupId>com.lightbend.rp</groupId>
                 <artifactId>reactive-lib-service-discovery-lagom14-java_${scala.binary.version}</artifactId>
-                <version>0.6.0</version>
+                <version>1.7.0</version>
             </dependency>
         </dependencies>
     </dependencyManagement>
